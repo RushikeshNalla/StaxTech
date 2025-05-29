@@ -117,6 +117,6 @@ Output: Correct!
 
 Final Score: 8/10.
 
-![image](https://github.com/user-attachments/assets/96826e43-1fa9-4dfb-a1de-4a8d6bff24d7)
+![image](https://github.com/user-attachments/assets/6c817983-42ab-420d-98a6-e336aa26eebe)
 
 
